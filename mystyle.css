@@ -1,0 +1,44 @@
+.wrap {
+  display: block;
+  margin: 200px 250px;
+  height: 400px;
+  width: 800px;
+  background-color: #6ace42;
+  opacity: 10;
+}
+.Introduction {
+  font-weight: bold;
+}
+.input-group {
+  position: relative;
+  max-width: 300px;
+  border-color: #bf95ed;
+  border-style: double;
+}
+.geoButton {
+  background-color: #fff8d2;
+}
+.Calender {
+  position: relative;
+  left: 320px;
+  top: 210px;
+}
+.card-Day {
+  position: relative;
+}
+.Content {
+  position: relative;
+}
+.day {
+  text-decoration: none;
+  font-size: larger;
+  color: #bf95ed;
+  font-weight: bold;
+}
+.pseudolink {
+  text-decoration: none;
+  color: black;
+}
+.Degree {
+  font-size: larger;
+}
